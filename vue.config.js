@@ -11,7 +11,7 @@ function resolve (dir) {
   return path.join(__dirname, dir)
 }
 
-const port = 8033 // 端口配置
+const port = 8035 // 端口配置
 const { name } = require('./package')
 
 module.exports = {

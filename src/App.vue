@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <h1>VUE2</h1>
+      <h1>这个是子应用VUE2</h1>
   </div>
 </template>
 
